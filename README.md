@@ -1,2 +1,7 @@
-# gcm-aula02
-Aula 02 de Gestão de Configuração e Mudanças
+# Atores/Atrizes preferidos:
+
+- Johnny Depp
+
+- Brad Pitt
+
+- Angelina Jolie
