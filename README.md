@@ -2,6 +2,8 @@
 
 - Johnny Depp
 
-- Brad Pitt
+- Ian Somerhalder
 
 - Angelina Jolie
+
+- Paul Wesley
